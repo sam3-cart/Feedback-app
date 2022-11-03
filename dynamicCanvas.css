@@ -1,0 +1,160 @@
+/*  Dynamic canvas size depending on the screen size (keeping 16:9 aspect ratio).
+    For each standard 16:9 browser resolution, the resolution of the app is 1 
+    standard resolution lower. The non-standard browser resolutions will be 
+    treated as the closest lower 16:9 browser resolution based on width only 
+    (incremental use of min-width). In theory, this could work with very large 
+    screens (tested with 4K monitor).
+    
+    Author: Julien Larivière-Chartier
+    Date:   2022-05-19
+*/
+
+/* 640 x 360 (nHD)  is the smallest */
+canvas{
+    width: 640px;
+    height: 360px;
+}
+
+/* 854 x 480 (FWVGA) */
+@media (min-width: 960px) {
+    canvas{
+        width: 854px;
+        height: 480px;
+    }
+}
+
+/* 960 x 540 (qHD) */
+@media (min-width: 1024px) {
+    canvas{
+        width: 960px;
+        height: 540px;
+    }
+}
+
+/* 1024 x 576 (WSVGA) */
+@media (min-width: 1280px) {
+    canvas{
+        width: 1024px;
+        height: 576px;
+    }
+}
+
+/* 1280 x 720 (HD/WXGA)  UNUSED */
+/*@media (min-width: 1366px) {
+    canvas{
+        width: 1280px;
+        height: 720px;
+    }
+}
+*/
+
+/* 1366 x 768 (FWXGA) */
+@media (min-width: 1600px) {
+    
+    canvas{
+        width: 1366px;
+        height: 768px;
+    }
+}
+
+/* 1600 x 900 (HD+) */
+@media (min-width: 1920px) {
+    
+    canvas{
+        width: 1600px;
+        height: 900px;
+    }
+}
+
+/*1920 x 1080 (FHD) */
+@media (min-width: 2048px) {
+    
+    canvas{
+        width: 1920px;
+        height: 1080px;
+    }
+}
+
+/* 2048 x 1152 (QWXGA) */
+@media (min-width: 2560px) {
+    
+    canvas{
+        width: 2048px;
+        height: 1152px;
+    }
+}
+/* 2560 x 1440 (QHD) */
+@media (min-width: 3840px) {
+    
+    canvas{
+        width: 2560px;
+        height: 1440px;
+    }
+}
+/* 3200 x 1800 (WQXGA+) */
+@media (min-width: 3840px) {
+    
+    canvas{
+        width: 3200px;
+        height: 1800px;
+    }
+}
+/* 3840 x 2160 (UHD) */
+@media (min-width: 5120px) {
+    
+    canvas{
+        width: 3840px;
+        height: 2160px;
+    }
+}
+/* 5120 x 2880 (UHD+) */
+@media (min-width: 7680px) {
+    
+    canvas{
+        width: 5120px;
+        height: 2880px;
+    }
+}
+/* 7680 x 4320 (FUHD) */
+@media (min-width: 15360px) {
+    
+    canvas{
+        width: 7680px;
+        height: 4320px;
+    }
+}
+/* 15360 x 8640 (QUHD) */
+@media (min-width: 30720px) {
+    
+    canvas{
+        width: 15360px;
+        height: 8640px;
+    }
+}
+/* 30720 x 17280 (HHD) */
+@media (min-width: 61440px) {
+    
+    canvas{
+        width: 30720px;
+        height: 17280px;
+    }
+}
+/* 61440 x 34560 (FHHD) */
+@media (min-width: 122880px) {
+    
+    canvas{
+        width: 61440px;
+        height: 34560px;
+    }
+}
+
+ 
+
+
+
+
+
+
+
+
+
