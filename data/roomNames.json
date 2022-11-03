@@ -1,0 +1,295 @@
+{"names":[
+    {
+        "longName": "Bathroom 1",
+		"shortName": "Bathroom 1"
+    },
+    {
+        "shortName": "Bathroom 2",
+        "longName": "Bathroom 2"
+    },
+    {
+        "shortName": "Bathroom 3",
+        "longName": "Bathroom 3"
+    },
+    {
+        "shortName": "Bedroom 1",
+        "longName": "Bedroom 1"
+    },
+    {
+        "shortName": "Bedroom 2",
+        "longName": "Bedroom 2"
+    },
+    {
+        "shortName": "Bedroom 3",
+        "longName": "Bedroom 3"
+    },
+    {
+        "shortName": "PC Room 1",
+        "longName": "Computer Room 1"
+    },
+    {
+        "shortName": "PC Room 2",
+        "longName": "Computer Room 2"
+    },
+    {
+        "shortName": "Conf. Room 1",
+        "longName": "Conference Room 1"
+    },
+    {
+        "shortName": "Conf. Room 2",
+        "longName": "Conference Room 2"
+    },
+    {
+        "shortName": "Craft Room 1",
+        "longName": "Craft Room 1"
+    },
+    {
+        "shortName": "Craft Room 2",
+        "longName": "Craft Room 2"
+    },
+    {
+        "shortName": "Dining Room 1",
+        "longName": "Dining Room 1"
+    },
+    {
+        "shortName": "Dining Room 1",
+        "longName": "Dining Room 2"
+    },
+    {
+        "shortName": "Entr. Hall 1",
+        "longName": "Entrance Hallway 1"
+    },
+    {
+        "shortName": "Entr. Hall 2",
+        "longName": "Entrance Hallway 2"
+    },
+    {
+        "shortName": "Garage 1",
+        "longName": "Garage 1"
+    },
+    {
+        "shortName": "Garage 2",
+        "longName": "Garage 2"
+    },
+    {
+        "shortName": "Hallway 1",
+        "longName": "Hallway 1"
+    },
+    {
+        "shortName": "Hallway 2",
+        "longName": "Hallway 2"
+    },
+    {
+        "shortName": "Hallway 3",
+        "longName": "Hallway 3"
+    },
+    {
+        "shortName": "Hallway 4",
+        "longName": "Hallway 4"
+    },
+    {
+        "shortName": "Kitchen 1",
+        "longName": "Kitchen 1"
+    },
+    {
+        "shortName": "Kitchen 2",
+        "longName": "Kitchen 2"
+    },
+    {
+        "shortName": "Laundry 1",
+        "longName": "Laundry Room 1"
+    },
+    {
+        "shortName": "Laundry 2",
+        "longName": "Laundry Room 2"
+    },
+    {
+        "shortName": "Library 1",
+        "longName": "Library 1"
+    },
+    {
+        "shortName": "Library 2",
+        "longName": "Library 2"
+    },
+    {
+        "shortName": "Living Room 1",
+        "longName": "Living Room 1"
+    },
+    {
+        "shortName": "Living Room 2",
+        "longName": "Living Room 2"
+    },
+    {
+        "shortName": "Lounge 1",
+        "longName": "Lounge 1"
+    },
+    {
+        "shortName": "Lounge 2",
+        "longName": "Lounge 2"
+    },
+    {
+        "shortName": "Office 1",
+        "longName": "Office 1"
+    },
+    {
+        "shortName": "Office 2",
+        "longName": "Office 2"
+    },
+    {
+        "shortName": "Other 1",
+        "longName": "Other 1"
+    },
+    {
+        "shortName": "Other 2",
+        "longName": "Other 2"
+    },
+    {
+        "shortName": "Other 3",
+        "longName": "Other 3"
+    },
+    {
+        "shortName": "Other 4",
+        "longName": "Other 4"
+    },
+    {
+        "shortName": "Party Room 1",
+        "longName": "Party Room 1"
+    },
+    {
+        "shortName": "Party Room 2",
+        "longName": "Party Room 2"
+    },
+    {
+        "shortName": "Server Room 1",
+        "longName": "Server Room 1"
+    },
+    {
+        "shortName": "Server Room 2",
+        "longName": "Server Room 2"
+    },
+    {
+        "shortName": "Shed 1",
+        "longName": "Shed 1"
+    },
+    {
+        "shortName": "Shed 2",
+        "longName": "Shed 2"
+    },
+    {
+        "shortName": "Stairs 1",
+        "longName": "Stairs 1"
+    },
+    {
+        "shortName": "Stairs 2",
+        "longName": "Stairs 2"
+    },
+    {
+        "shortName": "Stairs 3",
+        "longName": "Stairs 3"
+    },
+    {
+        "shortName": "Stairs 4",
+        "longName": "Stairs 4"
+    },
+    {
+        "shortName": "Study 1",
+        "longName": "Study 1"
+    },
+    {
+        "shortName": "Study 2",
+        "longName": "Study 2"
+    },
+    {
+        "shortName": "Bathroom 4",
+        "longName": "Bathroom 4"
+    },
+    {
+        "shortName": "Bathroom 5",
+        "longName": "Bathroom 5"
+    },
+    {
+        "shortName": "Closet 1",
+        "longName": "Walk-in Closet 1"
+    },
+    {
+        "shortName": "Closet 2",
+        "longName": "Walk-in Closet 2"
+    },
+    {
+        "shortName": "Closet 3",
+        "longName": "Walk-in Closet 3"
+    },
+    {
+        "shortName": "Front Door",
+        "longName": "Front Door"
+    },
+    {
+        "shortName": "Back Door",
+        "longName": "Back Door"
+    },
+    {
+        "shortName": "Refrigerator",
+        "longName": "Refrigerator"
+    },
+    {
+        "shortName": "Other Door",
+        "longName": "Other Door"
+    },
+    {
+        "shortName": "Balcony Door",
+        "longName": "Balcony Door"
+    },
+    {
+        "shortName": "Garage Door",
+        "longName": "Garage Door"
+    },
+    {
+        "shortName": "Other Door 2",
+        "longName": "Other Door 2"
+    },
+    {
+        "shortName": "Sensor Line",
+        "longName": "Sensor Line"
+    },
+    {
+        "shortName": "In/out of bed",
+        "longName": "In / out of bed"
+    },
+    {
+        "shortName": "Medication",
+        "longName": "Medication taking"
+    },
+    {
+        "shortName": "Leaving home",
+        "longName": "Leaving home"
+    },
+    {
+        "shortName": "Sensor Line 2",
+        "longName": "Extra sensor line"
+    },
+    {
+        "shortName": "None",
+        "longName": "None"
+    },
+    {
+        "shortName": "Leave Bedroom",
+        "longName": "Leaving Bedroom"
+    },
+    {
+        "shortName": "Balcony 1",
+        "longName": "Balcony 1"
+    },
+    {
+        "shortName": "Bedroom 4",
+        "longName": "Bedroom 4"
+    },
+    {
+        "shortName": "Bedroom 5",
+        "longName": "Bedroom 5"
+    },
+    {
+        "shortName": "Car 1",
+        "longName": "Car 1"
+    }
+]
+}

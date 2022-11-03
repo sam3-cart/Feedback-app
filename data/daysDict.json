@@ -1,0 +1,1748 @@
+{
+    "Days": [
+        {
+            "weekday": "Saturday",
+            "sleepStart": "2021-11-20 12:00:00",
+            "sleepEnd": "2021-11-21 12:00:00",
+            "activityStart": "2021-11-20 00:00:00",
+            "activityEnd": "2021-11-21 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 3823,
+                        "total": 2731,
+                        "distance": 273
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-20 23:28:59",
+                            "stop": "2021-11-21 08:19:32"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 0,
+                        "total": 0,
+                        "distance": 0
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 19447
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 15843
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 3809
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 34678
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 13546
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 38302,
+            "timeInactive": 9575
+        },
+        {
+            "weekday": "Sunday",
+            "sleepStart": "2021-11-21 12:00:00",
+            "sleepEnd": "2021-11-22 12:00:00",
+            "activityStart": "2021-11-21 00:00:00",
+            "activityEnd": "2021-11-22 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 3649,
+                        "total": 2607,
+                        "distance": 260
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-21 22:05:57",
+                            "stop": "2021-11-22 06:38:46"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 0,
+                        "total": 0,
+                        "distance": 0
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 27002
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 14501
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 4854
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 37879
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 12280
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 31393,
+            "timeInactive": 7848
+        },
+        {
+            "weekday": "Monday",
+            "sleepStart": "2021-11-22 12:00:00",
+            "sleepEnd": "2021-11-23 12:00:00",
+            "activityStart": "2021-11-22 00:00:00",
+            "activityEnd": "2021-11-23 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 4208,
+                        "total": 3006,
+                        "distance": 300
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-22 22:40:33",
+                            "stop": "2021-11-23 06:20:40"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 0,
+                        "total": 0,
+                        "distance": 0
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 23149
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 10609
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6287
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 37446
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 7579
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 30656,
+            "timeInactive": 7664
+        },
+        {
+            "weekday": "Tuesday",
+            "sleepStart": "2021-11-23 12:00:00",
+            "sleepEnd": "2021-11-24 12:00:00",
+            "activityStart": "2021-11-23 00:00:00",
+            "activityEnd": "2021-11-24 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 4256,
+                        "total": 3040,
+                        "distance": 304
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-23 23:52:15",
+                            "stop": "2021-11-24 08:33:43"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 0,
+                        "total": 0,
+                        "distance": 0
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 16494
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 18595
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5927
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 35014
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 8549
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 41738,
+            "timeInactive": 10434
+        },
+        {
+            "weekday": "Wednesday",
+            "sleepStart": "2021-11-24 12:00:00",
+            "sleepEnd": "2021-11-25 12:00:00",
+            "activityStart": "2021-11-24 00:00:00",
+            "activityEnd": "2021-11-25 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 3595,
+                        "total": 2568,
+                        "distance": 256
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-24 22:14:33",
+                            "stop": "2021-11-25 05:40:34"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 60,
+                        "total": 37,
+                        "distance": 30249
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 21759
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 16507
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 4032
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 40260
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 13977
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 28352,
+            "timeInactive": 7087
+        },
+        {
+            "weekday": "Thursday",
+            "sleepStart": "2021-11-25 12:00:00",
+            "sleepEnd": "2021-11-26 12:00:00",
+            "activityStart": "2021-11-25 00:00:00",
+            "activityEnd": "2021-11-26 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 4071,
+                        "total": 2908,
+                        "distance": 290
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-25 22:19:02",
+                            "stop": "2021-11-26 05:52:08"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9420,
+                        "total": 3313,
+                        "distance": 2460042
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-26 09:49:00",
+                            "stop": "2021-11-26 11:48:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 21663
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 12215
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6838
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 28105
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 8785
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 28131,
+            "timeInactive": 7032
+        },
+        {
+            "weekday": "Friday",
+            "sleepStart": "2021-11-26 12:00:00",
+            "sleepEnd": "2021-11-27 12:00:00",
+            "activityStart": "2021-11-26 00:00:00",
+            "activityEnd": "2021-11-27 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 3462,
+                        "total": 2473,
+                        "distance": 247
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-26 23:01:38",
+                            "stop": "2021-11-27 07:35:56"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 11400,
+                        "total": 2663,
+                        "distance": 2170682
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-27 02:10:00",
+                            "stop": "2021-11-27 04:30:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 22031
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 12228
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6525
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 37209
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 11476
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 36877,
+            "timeInactive": 9219
+        },
+        {
+            "weekday": "Saturday",
+            "sleepStart": "2021-11-27 12:00:00",
+            "sleepEnd": "2021-11-28 12:00:00",
+            "activityStart": "2021-11-27 00:00:00",
+            "activityEnd": "2021-11-28 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2905,
+                        "total": 2075,
+                        "distance": 207
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-28 00:39:08",
+                            "stop": "2021-11-28 08:27:20"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9721,
+                        "total": 2260,
+                        "distance": 1858623
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26011
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 18692
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6250
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 33439
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 10374
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 25799,
+            "timeInactive": 6449
+        },
+        {
+            "weekday": "Sunday",
+            "sleepStart": "2021-11-28 12:00:00",
+            "sleepEnd": "2021-11-29 12:00:00",
+            "activityStart": "2021-11-28 00:00:00",
+            "activityEnd": "2021-11-29 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2969,
+                        "total": 2121,
+                        "distance": 212
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-29 01:07:23",
+                            "stop": "2021-11-29 07:45:59"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 6960,
+                        "total": 1724,
+                        "distance": 1402486
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-29 02:53:00",
+                            "stop": "2021-11-29 11:39:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 23077
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 12630
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5163
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 40856
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 10395
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 42978,
+            "timeInactive": 10744
+        },
+        {
+            "weekday": "Monday",
+            "sleepStart": "2021-11-29 12:00:00",
+            "sleepEnd": "2021-11-30 12:00:00",
+            "activityStart": "2021-11-29 00:00:00",
+            "activityEnd": "2021-11-30 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2741,
+                        "total": 1958,
+                        "distance": 195
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-29 20:21:12",
+                            "stop": "2021-11-30 05:01:17"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 6000,
+                        "total": 1983,
+                        "distance": 1305196
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-11-30 07:37:00",
+                            "stop": "2021-11-30 11:58:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26555
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 14223
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6206
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 34368
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 10795
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 36293,
+            "timeInactive": 9073
+        },
+        {
+            "weekday": "Tuesday",
+            "sleepStart": "2021-11-30 12:00:00",
+            "sleepEnd": "2021-12-01 12:00:00",
+            "activityStart": "2021-11-30 00:00:00",
+            "activityEnd": "2021-12-01 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2198,
+                        "total": 1570,
+                        "distance": 157
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-01 01:03:26",
+                            "stop": "2021-12-01 08:11:53"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9420,
+                        "total": 2760,
+                        "distance": 2135541
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-01 00:15:00",
+                            "stop": "2021-12-01 06:16:00"
+                        },
+                        {
+                            "start": "2021-12-01 08:41:00",
+                            "stop": "2021-12-01 11:12:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 23138
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 12307
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5082
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 39512
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 10582
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 30172,
+            "timeInactive": 7542
+        },
+        {
+            "weekday": "Wednesday",
+            "sleepStart": "2021-12-01 12:00:00",
+            "sleepEnd": "2021-12-02 12:00:00",
+            "activityStart": "2021-12-01 00:00:00",
+            "activityEnd": "2021-12-02 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2374,
+                        "total": 1696,
+                        "distance": 169
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-02 03:39:27",
+                            "stop": "2021-12-02 09:57:08"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9060,
+                        "total": 2043,
+                        "distance": 1671792
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 21244
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 18091
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6371
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 32755
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 11930
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 29121,
+            "timeInactive": 7280
+        },
+        {
+            "weekday": "Thursday",
+            "sleepStart": "2021-12-02 12:00:00",
+            "sleepEnd": "2021-12-03 12:00:00",
+            "activityStart": "2021-12-02 00:00:00",
+            "activityEnd": "2021-12-03 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2689,
+                        "total": 1921,
+                        "distance": 192
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-03 04:05:01",
+                            "stop": "2021-12-03 09:37:58"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 7140,
+                        "total": 1699,
+                        "distance": 1398805
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-03 00:22:00",
+                            "stop": "2021-12-03 10:02:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 19229
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 10804
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5173
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 41306
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 10224
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 37421,
+            "timeInactive": 9355
+        },
+        {
+            "weekday": "Friday",
+            "sleepStart": "2021-12-03 12:00:00",
+            "sleepEnd": "2021-12-04 12:00:00",
+            "activityStart": "2021-12-03 00:00:00",
+            "activityEnd": "2021-12-04 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2160,
+                        "total": 1543,
+                        "distance": 154
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-03 22:44:46",
+                            "stop": "2021-12-04 07:42:12"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 8580,
+                        "total": 2319,
+                        "distance": 1795306
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-04 07:15:00",
+                            "stop": "2021-12-04 11:27:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 19410
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 12181
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5446
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 34991
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 10556
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 36588,
+            "timeInactive": 9146
+        },
+        {
+            "weekday": "Saturday",
+            "sleepStart": "2021-12-04 12:00:00",
+            "sleepEnd": "2021-12-05 12:00:00",
+            "activityStart": "2021-12-04 00:00:00",
+            "activityEnd": "2021-12-05 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 3045,
+                        "total": 2175,
+                        "distance": 217
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-04 23:21:03",
+                            "stop": "2021-12-05 06:52:07"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 8701,
+                        "total": 2068,
+                        "distance": 1703937
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26889
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 13320
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6783
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 31826
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 13680
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 42038,
+            "timeInactive": 10509
+        },
+        {
+            "weekday": "Sunday",
+            "sleepStart": "2021-12-05 12:00:00",
+            "sleepEnd": "2021-12-06 12:00:00",
+            "activityStart": "2021-12-05 00:00:00",
+            "activityEnd": "2021-12-06 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2944,
+                        "total": 2103,
+                        "distance": 210
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-05 23:23:53",
+                            "stop": "2021-12-06 07:36:40"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 7560,
+                        "total": 2372,
+                        "distance": 1905168
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 23906
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 10834
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 4376
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 34473
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 14448
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 25027,
+            "timeInactive": 6256
+        },
+        {
+            "weekday": "Monday",
+            "sleepStart": "2021-12-06 12:00:00",
+            "sleepEnd": "2021-12-07 12:00:00",
+            "activityStart": "2021-12-06 00:00:00",
+            "activityEnd": "2021-12-07 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 3623,
+                        "total": 2588,
+                        "distance": 258
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-06 22:26:59",
+                            "stop": "2021-12-07 06:25:41"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9660,
+                        "total": 2668,
+                        "distance": 2059518
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26455
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 14084
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5220
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 44949
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 15967
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 28144,
+            "timeInactive": 7036
+        },
+        {
+            "weekday": "Tuesday",
+            "sleepStart": "2021-12-07 12:00:00",
+            "sleepEnd": "2021-12-08 12:00:00",
+            "activityStart": "2021-12-07 00:00:00",
+            "activityEnd": "2021-12-08 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2976,
+                        "total": 2126,
+                        "distance": 212
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-07 22:12:26",
+                            "stop": "2021-12-08 06:38:16"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 5700,
+                        "total": 1239,
+                        "distance": 1022005
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 20315
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 15451
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 4299
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 44770
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 10664
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 37355,
+            "timeInactive": 9338
+        },
+        {
+            "weekday": "Wednesday",
+            "sleepStart": "2021-12-08 12:00:00",
+            "sleepEnd": "2021-12-09 12:00:00",
+            "activityStart": "2021-12-08 00:00:00",
+            "activityEnd": "2021-12-09 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2534,
+                        "total": 1810,
+                        "distance": 181
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-09 00:09:07",
+                            "stop": "2021-12-09 07:34:49"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9899,
+                        "total": 2763,
+                        "distance": 2276035
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26517
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 12091
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6321
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 39864
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 13038
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 31152,
+            "timeInactive": 7788
+        },
+        {
+            "weekday": "Thursday",
+            "sleepStart": "2021-12-09 12:00:00",
+            "sleepEnd": "2021-12-10 12:00:00",
+            "activityStart": "2021-12-09 00:00:00",
+            "activityEnd": "2021-12-10 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2216,
+                        "total": 1583,
+                        "distance": 158
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-09 22:34:10",
+                            "stop": "2021-12-10 06:36:02"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 8999,
+                        "total": 1757,
+                        "distance": 1442919
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-10 01:18:00",
+                            "stop": "2021-12-10 07:37:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 27499
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 18176
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 3880
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 34352
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 13826
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 31720,
+            "timeInactive": 7929
+        },
+        {
+            "weekday": "Friday",
+            "sleepStart": "2021-12-10 12:00:00",
+            "sleepEnd": "2021-12-11 12:00:00",
+            "activityStart": "2021-12-10 00:00:00",
+            "activityEnd": "2021-12-11 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2993,
+                        "total": 2138,
+                        "distance": 213
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-10 22:07:55",
+                            "stop": "2021-12-11 07:17:15"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 12540,
+                        "total": 3469,
+                        "distance": 2851410
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-11 02:03:00",
+                            "stop": "2021-12-11 04:28:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 21954
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 15638
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6062
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 31829
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 15852
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 35230,
+            "timeInactive": 8807
+        },
+        {
+            "weekday": "Saturday",
+            "sleepStart": "2021-12-11 12:00:00",
+            "sleepEnd": "2021-12-12 12:00:00",
+            "activityStart": "2021-12-11 00:00:00",
+            "activityEnd": "2021-12-12 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2080,
+                        "total": 1486,
+                        "distance": 148
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-11 22:28:45",
+                            "stop": "2021-12-12 07:37:59"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 10741,
+                        "total": 2399,
+                        "distance": 1976477
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-12 02:00:00",
+                            "stop": "2021-12-12 10:10:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26014
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 10528
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6663
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 42805
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 11687
+                }
+            ],
+            "timeTogether": 25000,
+            "timeApart": 43012,
+            "timeInactive": 10752
+        },
+        {
+            "weekday": "Sunday",
+            "sleepStart": "2021-12-12 12:00:00",
+            "sleepEnd": "2021-12-13 12:00:00",
+            "activityStart": "2021-12-12 00:00:00",
+            "activityEnd": "2021-12-13 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2483,
+                        "total": 1774,
+                        "distance": 177
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-12 22:29:56",
+                            "stop": "2021-12-13 05:45:12"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9481,
+                        "total": 2341,
+                        "distance": 1929712
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-13 01:03:00",
+                            "stop": "2021-12-13 03:54:00"
+                        },
+                        {
+                            "start": "2021-12-13 07:29:00",
+                            "stop": "2021-12-13 09:35:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 27533
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 10293
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5893
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 38195
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 12795
+                }
+            ],
+            "timeTogether": 34965,
+            "timeApart": 41148,
+            "timeInactive": 10287
+        },
+        {
+            "weekday": "Monday",
+            "sleepStart": "2021-12-13 12:00:00",
+            "sleepEnd": "2021-12-14 12:00:00",
+            "activityStart": "2021-12-13 00:00:00",
+            "activityEnd": "2021-12-14 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2755,
+                        "total": 1968,
+                        "distance": 196
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-13 23:54:58",
+                            "stop": "2021-12-14 08:51:23"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 15841,
+                        "total": 5034,
+                        "distance": 3909135
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26124
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 17516
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6176
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 35497
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 15709
+                }
+            ],
+            "timeTogether": 34758,
+            "timeApart": 41314,
+            "timeInactive": 10328
+        },
+        {
+            "weekday": "Tuesday",
+            "sleepStart": "2021-12-14 12:00:00",
+            "sleepEnd": "2021-12-15 12:00:00",
+            "activityStart": "2021-12-14 00:00:00",
+            "activityEnd": "2021-12-15 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2359,
+                        "total": 1685,
+                        "distance": 168
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-15 00:29:20",
+                            "stop": "2021-12-15 08:26:26"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 11880,
+                        "total": 3240,
+                        "distance": 2487592
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-15 00:15:00",
+                            "stop": "2021-12-15 11:51:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26359
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 11858
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5687
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 29766
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 14747
+                }
+            ],
+            "timeTogether": 38649,
+            "timeApart": 38201,
+            "timeInactive": 9550
+        },
+        {
+            "weekday": "Wednesday",
+            "sleepStart": "2021-12-15 12:00:00",
+            "sleepEnd": "2021-12-16 12:00:00",
+            "activityStart": "2021-12-15 00:00:00",
+            "activityEnd": "2021-12-16 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2202,
+                        "total": 1573,
+                        "distance": 157
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-16 00:52:53",
+                            "stop": "2021-12-16 07:53:56"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9961,
+                        "total": 2871,
+                        "distance": 2094100
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-16 01:02:00",
+                            "stop": "2021-12-16 03:18:00"
+                        },
+                        {
+                            "start": "2021-12-16 06:47:00",
+                            "stop": "2021-12-16 10:42:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26352
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 17552
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 4818
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 30770
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 16329
+                }
+            ],
+            "timeTogether": 42677,
+            "timeApart": 34979,
+            "timeInactive": 8744
+        },
+        {
+            "weekday": "Thursday",
+            "sleepStart": "2021-12-16 12:00:00",
+            "sleepEnd": "2021-12-17 12:00:00",
+            "activityStart": "2021-12-16 00:00:00",
+            "activityEnd": "2021-12-17 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 1969,
+                        "total": 1407,
+                        "distance": 140
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-17 00:29:25",
+                            "stop": "2021-12-17 08:31:47"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 12240,
+                        "total": 4323,
+                        "distance": 3390496
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 23771
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 11439
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5338
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 42511
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 14653
+                }
+            ],
+            "timeTogether": 45306,
+            "timeApart": 32876,
+            "timeInactive": 8218
+        },
+        {
+            "weekday": "Friday",
+            "sleepStart": "2021-12-17 12:00:00",
+            "sleepEnd": "2021-12-18 12:00:00",
+            "activityStart": "2021-12-17 00:00:00",
+            "activityEnd": "2021-12-18 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2270,
+                        "total": 1622,
+                        "distance": 162
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-17 22:27:06",
+                            "stop": "2021-12-18 07:54:58"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9661,
+                        "total": 2076,
+                        "distance": 1709003
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-18 06:35:00",
+                            "stop": "2021-12-18 09:17:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 23833
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 16857
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5439
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 32098
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 11586
+                }
+            ],
+            "timeTogether": 50464,
+            "timeApart": 28749,
+            "timeInactive": 7187
+        },
+        {
+            "weekday": "Saturday",
+            "sleepStart": "2021-12-18 12:00:00",
+            "sleepEnd": "2021-12-19 12:00:00",
+            "activityStart": "2021-12-18 00:00:00",
+            "activityEnd": "2021-12-19 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2648,
+                        "total": 1892,
+                        "distance": 189
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-18 22:46:28",
+                            "stop": "2021-12-19 07:35:52"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 12060,
+                        "total": 3601,
+                        "distance": 2764818
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-19 01:33:00",
+                            "stop": "2021-12-19 05:18:00"
+                        },
+                        {
+                            "start": "2021-12-19 07:13:00",
+                            "stop": "2021-12-19 09:51:00"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26453
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 14822
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6895
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 42063
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 14197
+                }
+            ],
+            "timeTogether": 51387,
+            "timeApart": 28011,
+            "timeInactive": 7002
+        }
+    ]
+}
