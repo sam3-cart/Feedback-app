@@ -27,8 +27,8 @@
 	  
 	  // Current UNIX time.
 	  const t = Date.now();
-	  // Time to wait in seconds between forced refreshes.
-	  const s = 300;
+	  // Time to wait in seconds between forced refreshes. (300000 = 5 minutes)
+	  const s = 300000;
 	  console.log("URL params: ");
 	  console.log(urlParams);
 	  
@@ -38,9 +38,9 @@
 	  }
 	  
 	  // In s seconds, refresh the page.
-	  setTimeout(s,()=>{
+	  setTimeout(()=>{
 		window.location.href = `https://sam3-cart.github.io/Feedback-app/?t=${Date.now()}`;
-	  });
+	  }, s);
 	  
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
