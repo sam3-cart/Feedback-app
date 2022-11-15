@@ -21,7 +21,7 @@
       <div id="unity-warning"> </div>
     </div>
     <script>
-      
+      /*
 	  // Extract the parameters from the URL
 	  const urlParams = new URLSearchParams(window.location.search);
 	  
@@ -41,6 +41,41 @@
 	  setTimeout(()=>{
 		window.location.href = `https://sam3-cart.github.io/Feedback-app/?t=${Date.now()}`;
 	  }, s);
+	  */
+	  
+	(function clearCache() {
+		var idb = window.indexedDB || window.mozIndexedDB ||
+			window.webkitIndexedDB || window.msIndexedDB;
+		if (!idb) return;
+
+		var open;
+		try { open = idb.open('/idbfs') } catch(e) { return; }
+
+		var errorHandler = function(e){ e.preventDefault(); e.stopImmediatePropagation(); };
+		open.onabort = open.onerror = errorHandler;
+		open.onupgradeneeded = function(upgradeEvent) {
+			upgradeEvent.target.transaction.abort();
+		};
+
+		open.onsuccess = function(openEvent) {
+		var db = openEvent.target.result;
+		db.onerror = db.onabort = errorHandler;
+
+		try {
+			var store = db.transaction('FILE_DATA', 'readwrite').objectStore('FILE_DATA');
+			store.openCursor().onsuccess = function(cursorEvent) {
+			var cursor = cursorEvent.target.result;
+			if (cursor) {
+			  if (cursor.key.indexOf('/UnityCache/Shared/') !== -1) cursor.delete();
+			  cursor.continue();
+			}
+			};
+		} catch(e) {}
+
+		db.close();
+		};
+	})();
+	  
 	  
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
