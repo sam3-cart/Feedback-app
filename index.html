@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="Cache-Control" content="max-age: 0, no-cache, no-store, must-revalidate">
-	<meta http-equiv="Pragma" content="no-cache">
-	<meta http-equiv="Expires" content="0">
+	<meta http-equiv='cache-control' content='no-cache'> 
+	<meta http-equiv='expires' content='0'> 
+	<meta http-equiv='pragma' content='no-cache'>
     <title>Home Sensor Feedback System</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
@@ -24,61 +24,11 @@
       <div id="unity-warning"> </div>
     </div>
     <script>
-      /*
-	  // Extract the parameters from the URL
-	  const urlParams = new URLSearchParams(window.location.search);
-	  
-	  // Current UNIX time.
-	  const t = Date.now();
-	  // Time to wait in seconds between forced refreshes. (300000 = 5 minutes)
-	  const s = 300000;
-	  console.log("URL params: ");
-	  console.log(urlParams);
-	  
-	  // If it has been s seconds, reload the page
-	  if((!urlParams.has("t")) || (urlParams.get("t") > (t + s))){
-		window.location.href = `https://sam3-cart.github.io/Feedback-app/?t=${Date.now()}`;
-	  }
-	  
-	  // In s seconds, refresh the page.
-	  setTimeout(()=>{
-		window.location.href = `https://sam3-cart.github.io/Feedback-app/?t=${Date.now()}`;
-	  }, s);
-	  */
-	  /*
-	(function clearCache() {
-		var idb = window.indexedDB || window.mozIndexedDB ||
-			window.webkitIndexedDB || window.msIndexedDB;
-		if (!idb) return;
-
-		var open;
-		try { open = idb.open('/idbfs') } catch(e) { return; }
-
-		var errorHandler = function(e){ e.preventDefault(); e.stopImmediatePropagation(); };
-		open.onabort = open.onerror = errorHandler;
-		open.onupgradeneeded = function(upgradeEvent) {
-			upgradeEvent.target.transaction.abort();
-		};
-
-		open.onsuccess = function(openEvent) {
-		var db = openEvent.target.result;
-		db.onerror = db.onabort = errorHandler;
-
-		try {
-			var store = db.transaction('FILE_DATA', 'readwrite').objectStore('FILE_DATA');
-			store.openCursor().onsuccess = function(cursorEvent) {
-			var cursor = cursorEvent.target.result;
-			if (cursor) {
-			  if (cursor.key.indexOf('/UnityCache/Shared/') !== -1) cursor.delete();
-			  cursor.continue();
-			}
-			};
-		} catch(e) {}
-
-		db.close();
-		};
-	})();
-	  */
+	
+	// Refresh the page every 5 minutes
+	setTimeout(()=>{
+		window.location.href = "https://sam3-cart.github.io/Feedback-app/";
+	 }, 300000);
 	  
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
