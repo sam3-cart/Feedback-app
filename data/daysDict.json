@@ -1,63 +1,6 @@
 {
     "Days": [
         {
-            "weekday": "Sunday",
-            "sleepStart": "2022-12-18 12:00:00",
-            "sleepEnd": "2022-12-19 12:00:00",
-            "activityStart": "2022-12-18 00:00:00",
-            "activityEnd": "2022-12-19 00:00:00",
-            "participants": [
-                {
-                    "tag": "P1",
-                    "steps": {
-                        "duration": 3649,
-                        "total": 2607,
-                        "distance": 260
-                    },
-                    "sleep": [
-                        {
-                            "start": "2022-12-18 22:05:57.000",
-                            "stop": "2022-12-19 06:38:46.000"
-                        }
-                    ]
-                },
-                {
-                    "tag": "P2",
-                    "steps": {
-                        "duration": 0,
-                        "total": 0,
-                        "distance": 0
-                    },
-                    "sleep": []
-                }
-            ],
-            "roomsActivity": [
-                {
-                    "room": "Living Room",
-                    "occupancy": 27002
-                },
-                {
-                    "room": "Kitchen",
-                    "occupancy": 14501
-                },
-                {
-                    "room": "Hallway",
-                    "occupancy": 4854
-                },
-                {
-                    "room": "Bedroom",
-                    "occupancy": 37879
-                },
-                {
-                    "room": "Bathroom",
-                    "occupancy": 12280
-                }
-            ],
-            "timeTogether": 47159,
-            "timeApart": 31393,
-            "timeInactive": 7848
-        },
-        {
             "weekday": "Monday",
             "sleepStart": "2022-12-19 12:00:00",
             "sleepEnd": "2022-12-20 12:00:00",
@@ -1800,6 +1743,63 @@
             "timeTogether": 38523,
             "timeApart": 38302,
             "timeInactive": 9575
+        },
+        {
+            "weekday": "Tuesday",
+            "sleepStart": "2023-01-17 12:00:00",
+            "sleepEnd": "2023-01-18 12:00:00",
+            "activityStart": "2023-01-17 00:00:00",
+            "activityEnd": "2023-01-18 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 3649,
+                        "total": 2607,
+                        "distance": 260
+                    },
+                    "sleep": [
+                        {
+                            "start": "2023-01-17 22:05:57.000",
+                            "stop": "2023-01-18 06:38:46.000"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 0,
+                        "total": 0,
+                        "distance": 0
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 27002
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 14501
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 4854
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 37879
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 12280
+                }
+            ],
+            "timeTogether": 47159,
+            "timeApart": 31393,
+            "timeInactive": 7848
         }
     ]
 }
