@@ -1,77 +1,11 @@
 {
     "Days": [
         {
-            "weekday": "Friday",
-            "sleepStart": "2023-02-10 12:00:00",
-            "sleepEnd": "2023-02-11 12:00:00",
-            "activityStart": "2023-02-10 00:00:00",
-            "activityEnd": "2023-02-11 00:00:00",
-            "participants": [
-                {
-                    "tag": "P1",
-                    "steps": {
-                        "duration": 2202,
-                        "total": 1573,
-                        "distance": 157
-                    },
-                    "sleep": [
-                        {
-                            "start": "2023-02-11 00:52:53.000",
-                            "stop": "2023-02-11 07:53:56.000"
-                        }
-                    ]
-                },
-                {
-                    "tag": "P2",
-                    "steps": {
-                        "duration": 9961,
-                        "total": 2871,
-                        "distance": 2094100
-                    },
-                    "sleep": [
-                        {
-                            "start": "2023-02-11 01:02:00.000",
-                            "stop": "2023-02-11 03:18:00.000"
-                        },
-                        {
-                            "start": "2023-02-11 06:47:00.000",
-                            "stop": "2023-02-11 10:42:00.000"
-                        }
-                    ]
-                }
-            ],
-            "roomsActivity": [
-                {
-                    "room": "Living Room",
-                    "occupancy": 26352
-                },
-                {
-                    "room": "Kitchen",
-                    "occupancy": 17552
-                },
-                {
-                    "room": "Hallway",
-                    "occupancy": 4818
-                },
-                {
-                    "room": "Bedroom",
-                    "occupancy": 30770
-                },
-                {
-                    "room": "Bathroom",
-                    "occupancy": 16329
-                }
-            ],
-            "timeTogether": 42677,
-            "timeApart": 34979,
-            "timeInactive": 8744
-        },
-        {
             "weekday": "Saturday",
-            "sleepStart": "2023-02-11 12:00:00",
-            "sleepEnd": "2023-02-12 12:00:00",
-            "activityStart": "2023-02-11 00:00:00",
-            "activityEnd": "2023-02-12 00:00:00",
+            "sleepStart": "2023-02-12 12:00:00",
+            "sleepEnd": "2023-02-13 12:00:00",
+            "activityStart": "2023-02-12 00:00:00",
+            "activityEnd": "2023-02-13 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -125,10 +59,10 @@
         },
         {
             "weekday": "Sunday",
-            "sleepStart": "2023-02-12 12:00:00",
-            "sleepEnd": "2023-02-13 12:00:00",
-            "activityStart": "2023-02-12 00:00:00",
-            "activityEnd": "2023-02-13 00:00:00",
+            "sleepStart": "2023-02-13 12:00:00",
+            "sleepEnd": "2023-02-14 12:00:00",
+            "activityStart": "2023-02-13 00:00:00",
+            "activityEnd": "2023-02-14 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -187,10 +121,10 @@
         },
         {
             "weekday": "Monday",
-            "sleepStart": "2023-02-13 12:00:00",
-            "sleepEnd": "2023-02-14 12:00:00",
-            "activityStart": "2023-02-13 00:00:00",
-            "activityEnd": "2023-02-14 00:00:00",
+            "sleepStart": "2023-02-14 12:00:00",
+            "sleepEnd": "2023-02-15 12:00:00",
+            "activityStart": "2023-02-14 00:00:00",
+            "activityEnd": "2023-02-15 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -257,10 +191,10 @@
         },
         {
             "weekday": "Tuesday",
-            "sleepStart": "2023-02-14 12:00:00",
-            "sleepEnd": "2023-02-15 12:00:00",
-            "activityStart": "2023-02-14 00:00:00",
-            "activityEnd": "2023-02-15 00:00:00",
+            "sleepStart": "2023-02-15 12:00:00",
+            "sleepEnd": "2023-02-16 12:00:00",
+            "activityStart": "2023-02-15 00:00:00",
+            "activityEnd": "2023-02-16 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -314,10 +248,10 @@
         },
         {
             "weekday": "Wednesday",
-            "sleepStart": "2023-02-15 12:00:00",
-            "sleepEnd": "2023-02-16 12:00:00",
-            "activityStart": "2023-02-15 00:00:00",
-            "activityEnd": "2023-02-16 00:00:00",
+            "sleepStart": "2023-02-16 12:00:00",
+            "sleepEnd": "2023-02-17 12:00:00",
+            "activityStart": "2023-02-16 00:00:00",
+            "activityEnd": "2023-02-17 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -371,10 +305,10 @@
         },
         {
             "weekday": "Thursday",
-            "sleepStart": "2023-02-16 12:00:00",
-            "sleepEnd": "2023-02-17 12:00:00",
-            "activityStart": "2023-02-16 00:00:00",
-            "activityEnd": "2023-02-17 00:00:00",
+            "sleepStart": "2023-02-17 12:00:00",
+            "sleepEnd": "2023-02-18 12:00:00",
+            "activityStart": "2023-02-17 00:00:00",
+            "activityEnd": "2023-02-18 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -428,10 +362,10 @@
         },
         {
             "weekday": "Friday",
-            "sleepStart": "2023-02-17 12:00:00",
-            "sleepEnd": "2023-02-18 12:00:00",
-            "activityStart": "2023-02-17 00:00:00",
-            "activityEnd": "2023-02-18 00:00:00",
+            "sleepStart": "2023-02-18 12:00:00",
+            "sleepEnd": "2023-02-19 12:00:00",
+            "activityStart": "2023-02-18 00:00:00",
+            "activityEnd": "2023-02-19 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -485,10 +419,10 @@
         },
         {
             "weekday": "Saturday",
-            "sleepStart": "2023-02-18 12:00:00",
-            "sleepEnd": "2023-02-19 12:00:00",
-            "activityStart": "2023-02-18 00:00:00",
-            "activityEnd": "2023-02-19 00:00:00",
+            "sleepStart": "2023-02-19 12:00:00",
+            "sleepEnd": "2023-02-20 12:00:00",
+            "activityStart": "2023-02-19 00:00:00",
+            "activityEnd": "2023-02-20 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -542,10 +476,10 @@
         },
         {
             "weekday": "Sunday",
-            "sleepStart": "2023-02-19 12:00:00",
-            "sleepEnd": "2023-02-20 12:00:00",
-            "activityStart": "2023-02-19 00:00:00",
-            "activityEnd": "2023-02-20 00:00:00",
+            "sleepStart": "2023-02-20 12:00:00",
+            "sleepEnd": "2023-02-21 12:00:00",
+            "activityStart": "2023-02-20 00:00:00",
+            "activityEnd": "2023-02-21 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -599,10 +533,10 @@
         },
         {
             "weekday": "Monday",
-            "sleepStart": "2023-02-20 12:00:00",
-            "sleepEnd": "2023-02-21 12:00:00",
-            "activityStart": "2023-02-20 00:00:00",
-            "activityEnd": "2023-02-21 00:00:00",
+            "sleepStart": "2023-02-21 12:00:00",
+            "sleepEnd": "2023-02-22 12:00:00",
+            "activityStart": "2023-02-21 00:00:00",
+            "activityEnd": "2023-02-22 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -665,10 +599,10 @@
         },
         {
             "weekday": "Tuesday",
-            "sleepStart": "2023-02-21 12:00:00",
-            "sleepEnd": "2023-02-22 12:00:00",
-            "activityStart": "2023-02-21 00:00:00",
-            "activityEnd": "2023-02-22 00:00:00",
+            "sleepStart": "2023-02-22 12:00:00",
+            "sleepEnd": "2023-02-23 12:00:00",
+            "activityStart": "2023-02-22 00:00:00",
+            "activityEnd": "2023-02-23 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -727,10 +661,10 @@
         },
         {
             "weekday": "Wednesday",
-            "sleepStart": "2023-02-22 12:00:00",
-            "sleepEnd": "2023-02-23 12:00:00",
-            "activityStart": "2023-02-22 00:00:00",
-            "activityEnd": "2023-02-23 00:00:00",
+            "sleepStart": "2023-02-23 12:00:00",
+            "sleepEnd": "2023-02-24 12:00:00",
+            "activityStart": "2023-02-23 00:00:00",
+            "activityEnd": "2023-02-24 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -784,10 +718,10 @@
         },
         {
             "weekday": "Thursday",
-            "sleepStart": "2023-02-23 12:00:00",
-            "sleepEnd": "2023-02-24 12:00:00",
-            "activityStart": "2023-02-23 00:00:00",
-            "activityEnd": "2023-02-24 00:00:00",
+            "sleepStart": "2023-02-24 12:00:00",
+            "sleepEnd": "2023-02-25 12:00:00",
+            "activityStart": "2023-02-24 00:00:00",
+            "activityEnd": "2023-02-25 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -846,10 +780,10 @@
         },
         {
             "weekday": "Friday",
-            "sleepStart": "2023-02-24 12:00:00",
-            "sleepEnd": "2023-02-25 12:00:00",
-            "activityStart": "2023-02-24 00:00:00",
-            "activityEnd": "2023-02-25 00:00:00",
+            "sleepStart": "2023-02-25 12:00:00",
+            "sleepEnd": "2023-02-26 12:00:00",
+            "activityStart": "2023-02-25 00:00:00",
+            "activityEnd": "2023-02-26 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -908,10 +842,10 @@
         },
         {
             "weekday": "Saturday",
-            "sleepStart": "2023-02-25 12:00:00",
-            "sleepEnd": "2023-02-26 12:00:00",
-            "activityStart": "2023-02-25 00:00:00",
-            "activityEnd": "2023-02-26 00:00:00",
+            "sleepStart": "2023-02-26 12:00:00",
+            "sleepEnd": "2023-02-27 12:00:00",
+            "activityStart": "2023-02-26 00:00:00",
+            "activityEnd": "2023-02-27 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -974,10 +908,10 @@
         },
         {
             "weekday": "Sunday",
-            "sleepStart": "2023-02-26 12:00:00",
-            "sleepEnd": "2023-02-27 12:00:00",
-            "activityStart": "2023-02-26 00:00:00",
-            "activityEnd": "2023-02-27 00:00:00",
+            "sleepStart": "2023-02-27 12:00:00",
+            "sleepEnd": "2023-02-28 12:00:00",
+            "activityStart": "2023-02-27 00:00:00",
+            "activityEnd": "2023-02-28 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1031,10 +965,10 @@
         },
         {
             "weekday": "Monday",
-            "sleepStart": "2023-02-27 12:00:00",
-            "sleepEnd": "2023-02-28 12:00:00",
-            "activityStart": "2023-02-27 00:00:00",
-            "activityEnd": "2023-02-28 00:00:00",
+            "sleepStart": "2023-02-28 12:00:00",
+            "sleepEnd": "2023-03-01 12:00:00",
+            "activityStart": "2023-02-28 00:00:00",
+            "activityEnd": "2023-03-01 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1093,10 +1027,10 @@
         },
         {
             "weekday": "Tuesday",
-            "sleepStart": "2023-02-28 12:00:00",
-            "sleepEnd": "2023-03-01 12:00:00",
-            "activityStart": "2023-02-28 00:00:00",
-            "activityEnd": "2023-03-01 00:00:00",
+            "sleepStart": "2023-03-01 12:00:00",
+            "sleepEnd": "2023-03-02 12:00:00",
+            "activityStart": "2023-03-01 00:00:00",
+            "activityEnd": "2023-03-02 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1155,10 +1089,10 @@
         },
         {
             "weekday": "Wednesday",
-            "sleepStart": "2023-03-01 12:00:00",
-            "sleepEnd": "2023-03-02 12:00:00",
-            "activityStart": "2023-03-01 00:00:00",
-            "activityEnd": "2023-03-02 00:00:00",
+            "sleepStart": "2023-03-02 12:00:00",
+            "sleepEnd": "2023-03-03 12:00:00",
+            "activityStart": "2023-03-02 00:00:00",
+            "activityEnd": "2023-03-03 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1212,10 +1146,10 @@
         },
         {
             "weekday": "Thursday",
-            "sleepStart": "2023-03-02 12:00:00",
-            "sleepEnd": "2023-03-03 12:00:00",
-            "activityStart": "2023-03-02 00:00:00",
-            "activityEnd": "2023-03-03 00:00:00",
+            "sleepStart": "2023-03-03 12:00:00",
+            "sleepEnd": "2023-03-04 12:00:00",
+            "activityStart": "2023-03-03 00:00:00",
+            "activityEnd": "2023-03-04 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1269,10 +1203,10 @@
         },
         {
             "weekday": "Friday",
-            "sleepStart": "2023-03-03 12:00:00",
-            "sleepEnd": "2023-03-04 12:00:00",
-            "activityStart": "2023-03-03 00:00:00",
-            "activityEnd": "2023-03-04 00:00:00",
+            "sleepStart": "2023-03-04 12:00:00",
+            "sleepEnd": "2023-03-05 12:00:00",
+            "activityStart": "2023-03-04 00:00:00",
+            "activityEnd": "2023-03-05 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1326,10 +1260,10 @@
         },
         {
             "weekday": "Saturday",
-            "sleepStart": "2023-03-04 12:00:00",
-            "sleepEnd": "2023-03-05 12:00:00",
-            "activityStart": "2023-03-04 00:00:00",
-            "activityEnd": "2023-03-05 00:00:00",
+            "sleepStart": "2023-03-05 12:00:00",
+            "sleepEnd": "2023-03-06 12:00:00",
+            "activityStart": "2023-03-05 00:00:00",
+            "activityEnd": "2023-03-06 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1383,10 +1317,10 @@
         },
         {
             "weekday": "Sunday",
-            "sleepStart": "2023-03-05 12:00:00",
-            "sleepEnd": "2023-03-06 12:00:00",
-            "activityStart": "2023-03-05 00:00:00",
-            "activityEnd": "2023-03-06 00:00:00",
+            "sleepStart": "2023-03-06 12:00:00",
+            "sleepEnd": "2023-03-07 12:00:00",
+            "activityStart": "2023-03-06 00:00:00",
+            "activityEnd": "2023-03-07 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1440,10 +1374,10 @@
         },
         {
             "weekday": "Monday",
-            "sleepStart": "2023-03-06 12:00:00",
-            "sleepEnd": "2023-03-07 12:00:00",
-            "activityStart": "2023-03-06 00:00:00",
-            "activityEnd": "2023-03-07 00:00:00",
+            "sleepStart": "2023-03-07 12:00:00",
+            "sleepEnd": "2023-03-08 12:00:00",
+            "activityStart": "2023-03-07 00:00:00",
+            "activityEnd": "2023-03-08 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1502,10 +1436,10 @@
         },
         {
             "weekday": "Tuesday",
-            "sleepStart": "2023-03-07 12:00:00",
-            "sleepEnd": "2023-03-08 12:00:00",
-            "activityStart": "2023-03-07 00:00:00",
-            "activityEnd": "2023-03-08 00:00:00",
+            "sleepStart": "2023-03-08 12:00:00",
+            "sleepEnd": "2023-03-09 12:00:00",
+            "activityStart": "2023-03-08 00:00:00",
+            "activityEnd": "2023-03-09 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1564,10 +1498,10 @@
         },
         {
             "weekday": "Wednesday",
-            "sleepStart": "2023-03-08 12:00:00",
-            "sleepEnd": "2023-03-09 12:00:00",
-            "activityStart": "2023-03-08 00:00:00",
-            "activityEnd": "2023-03-09 00:00:00",
+            "sleepStart": "2023-03-09 12:00:00",
+            "sleepEnd": "2023-03-10 12:00:00",
+            "activityStart": "2023-03-09 00:00:00",
+            "activityEnd": "2023-03-10 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1626,10 +1560,10 @@
         },
         {
             "weekday": "Thursday",
-            "sleepStart": "2023-03-09 12:00:00",
-            "sleepEnd": "2023-03-10 12:00:00",
-            "activityStart": "2023-03-09 00:00:00",
-            "activityEnd": "2023-03-10 00:00:00",
+            "sleepStart": "2023-03-10 12:00:00",
+            "sleepEnd": "2023-03-11 12:00:00",
+            "activityStart": "2023-03-10 00:00:00",
+            "activityEnd": "2023-03-11 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1692,10 +1626,10 @@
         },
         {
             "weekday": "Friday",
-            "sleepStart": "2023-03-10 12:00:00",
-            "sleepEnd": "2023-03-11 12:00:00",
-            "activityStart": "2023-03-10 00:00:00",
-            "activityEnd": "2023-03-11 00:00:00",
+            "sleepStart": "2023-03-11 12:00:00",
+            "sleepEnd": "2023-03-12 12:00:00",
+            "activityStart": "2023-03-11 00:00:00",
+            "activityEnd": "2023-03-12 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1749,10 +1683,10 @@
         },
         {
             "weekday": "Saturday",
-            "sleepStart": "2023-03-11 12:00:00",
-            "sleepEnd": "2023-03-12 12:00:00",
-            "activityStart": "2023-03-11 00:00:00",
-            "activityEnd": "2023-03-12 00:00:00",
+            "sleepStart": "2023-03-12 12:00:00",
+            "sleepEnd": "2023-03-13 12:00:00",
+            "activityStart": "2023-03-12 00:00:00",
+            "activityEnd": "2023-03-13 00:00:00",
             "participants": [
                 {
                     "tag": "P1",
@@ -1808,6 +1742,72 @@
             "timeTogether": 38649,
             "timeApart": 38201,
             "timeInactive": 9550
+        },
+        {
+            "weekday": "Monday",
+            "sleepStart": "2023-03-13 12:00:00",
+            "sleepEnd": "2023-03-14 12:00:00",
+            "activityStart": "2023-03-13 00:00:00",
+            "activityEnd": "2023-03-14 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2202,
+                        "total": 1573,
+                        "distance": 157
+                    },
+                    "sleep": [
+                        {
+                            "start": "2023-03-13 00:52:53.000",
+                            "stop": "2023-03-13 07:53:56.000"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9961,
+                        "total": 2871,
+                        "distance": 2094100
+                    },
+                    "sleep": [
+                        {
+                            "start": "2023-03-13 01:02:00.000",
+                            "stop": "2023-03-13 03:18:00.000"
+                        },
+                        {
+                            "start": "2023-03-13 06:47:00.000",
+                            "stop": "2023-03-13 10:42:00.000"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26352
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 17552
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 4818
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 30770
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 16329
+                }
+            ],
+            "timeTogether": 42677,
+            "timeApart": 34979,
+            "timeInactive": 8744
         }
     ]
 }
