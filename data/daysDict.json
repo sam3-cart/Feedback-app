@@ -1,76 +1,6 @@
 {
     "Days": [
         {
-            "weekday": "Saturday",
-            "sleepStart": "2023-08-12 12:00:00",
-            "sleepEnd": "2023-08-13 12:00:00",
-            "activityStart": "2023-08-12 00:00:00",
-            "activityEnd": "2023-08-13 00:00:00",
-            "participants": [
-                {
-                    "tag": "P1",
-                    "steps": {
-                        "duration": 2648,
-                        "total": 1892,
-                        "distance": 189
-                    },
-                    "sleep": [
-                        {
-                            "start": "2023-08-12 12:56:28.000",
-                            "stop": "2023-08-12 14:05:52.000"
-                        },
-                        {
-                            "start": "2023-08-12 22:46:28.000",
-                            "stop": "2023-08-13 07:35:52.000"
-                        }
-                    ]
-                },
-                {
-                    "tag": "P2",
-                    "steps": {
-                        "duration": 12060,
-                        "total": 3601,
-                        "distance": 2764818
-                    },
-                    "sleep": [
-                        {
-                            "start": "2023-08-13 01:33:00.000",
-                            "stop": "2023-08-13 05:18:00.000"
-                        },
-                        {
-                            "start": "2023-08-13 07:13:00.000",
-                            "stop": "2023-08-13 09:51:00.000"
-                        }
-                    ]
-                }
-            ],
-            "roomsActivity": [
-                {
-                    "room": "Living Room",
-                    "occupancy": 26453
-                },
-                {
-                    "room": "Kitchen",
-                    "occupancy": 14822
-                },
-                {
-                    "room": "Hallway",
-                    "occupancy": 6895
-                },
-                {
-                    "room": "Bedroom",
-                    "occupancy": 42063
-                },
-                {
-                    "room": "Bathroom",
-                    "occupancy": 14197
-                }
-            ],
-            "timeTogether": 51387,
-            "timeApart": 28011,
-            "timeInactive": 7002
-        },
-        {
             "weekday": "Sunday",
             "sleepStart": "2023-08-13 12:00:00",
             "sleepEnd": "2023-08-14 12:00:00",
@@ -1808,6 +1738,76 @@
             "timeTogether": 50464,
             "timeApart": 28749,
             "timeInactive": 7187
+        },
+        {
+            "weekday": "Monday",
+            "sleepStart": "2023-09-11 12:00:00",
+            "sleepEnd": "2023-09-12 12:00:00",
+            "activityStart": "2023-09-11 00:00:00",
+            "activityEnd": "2023-09-12 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 2648,
+                        "total": 1892,
+                        "distance": 189
+                    },
+                    "sleep": [
+                        {
+                            "start": "2023-09-11 12:56:28.000",
+                            "stop": "2023-09-11 14:05:52.000"
+                        },
+                        {
+                            "start": "2023-09-11 22:46:28.000",
+                            "stop": "2023-09-12 07:35:52.000"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 12060,
+                        "total": 3601,
+                        "distance": 2764818
+                    },
+                    "sleep": [
+                        {
+                            "start": "2023-09-12 01:33:00.000",
+                            "stop": "2023-09-12 05:18:00.000"
+                        },
+                        {
+                            "start": "2023-09-12 07:13:00.000",
+                            "stop": "2023-09-12 09:51:00.000"
+                        }
+                    ]
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Living Room",
+                    "occupancy": 26453
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 14822
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 6895
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 42063
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 14197
+                }
+            ],
+            "timeTogether": 51387,
+            "timeApart": 28011,
+            "timeInactive": 7002
         }
     ]
 }
